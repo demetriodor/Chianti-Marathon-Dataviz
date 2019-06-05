@@ -4,7 +4,7 @@ This repository contains the `R` scipts and data file to produce the plots of th
 2019 [Chianti Classico 21k Trail Half-Marathon](http://www.chianticlassicomarathon.com/en)
 
 ## A static histogram with `ggplot2`
-First, let's start with a simple histogram with overlapping distributions for men and women
+First, let's start with a simple histogram with overlapping distributions for men and women.
 
 
 ![](https://github.com/demetriodor/Chianti-Marathon-Dataviz/blob/master/chianti_hist.png)
